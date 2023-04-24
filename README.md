@@ -12,3 +12,4 @@
    
    Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
   
+   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
